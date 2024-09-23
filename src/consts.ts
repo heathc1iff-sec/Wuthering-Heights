@@ -66,7 +66,7 @@ export const menuItems = [
   {
     id: "contact",
     text: "Contact",
-    href: "mailto:contact.evesunmaple@outlook.com", // Contact email
+    href: "https://space.bilibili.com/305278344", // Contact email
     target: "_blank", // Open in a new tab
     svg: "contact",
   },
@@ -85,12 +85,6 @@ export const socialIcons = [
     ariaLabel: "Github",
     title: "Github",
     svg: "github",
-  },
-  {
-    href: "https://space.bilibili.com/438392347",
-    ariaLabel: "BiliBili",
-    title: "BiliBili",
-    svg: "bilibili",
   },
   {
     href: "/rss.xml",
